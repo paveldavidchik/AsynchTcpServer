@@ -1,2 +1,3 @@
 # AsynchTcpServer
-# AsynchTcpServer
+
+Простой асинхронный Tcp сервер, способный работать с двумя каналами.
